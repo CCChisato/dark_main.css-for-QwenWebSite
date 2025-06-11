@@ -8,8 +8,6 @@ rgba(54,57,74,0.54);
 
 Run the source file detect_light_colors.py, where the default input and output files are:
 
-python
-深色版本
 input_css_file = 'main.css'
 output_css_file = 'dark_main.css'
 It will search for the input_css_file in the same directory, and map all modifiable color values in the CSS file—such as
